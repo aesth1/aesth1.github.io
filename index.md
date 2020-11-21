@@ -1,4 +1,4 @@
-<title> discord bot invite links </title>
+<title> aesths website </title>
 
 ## aesth's epic 420 website
 
