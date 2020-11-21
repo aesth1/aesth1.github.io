@@ -4,3 +4,5 @@
 
 [discord bot invite codes](https://lelcool.github.io/index.html)
 
+[click me ](https://lelcool.github.io/click)
+
