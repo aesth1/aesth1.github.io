@@ -10,4 +10,4 @@
 
 [top ten gay people](/toptengaypeople)
 
-<img src=https://cdn.discordapp.com/attachments/715866467920510987/778629324156174366/image0.png />
+<img src="https://cdn.discordapp.com/attachments/715866467920510987/778629324156174366/image0.png" />
