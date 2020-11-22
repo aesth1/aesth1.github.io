@@ -8,3 +8,4 @@
 
 [uwu](https://lelcool.github.io/uwu)
 
+[top ten gay people](/toptengaypeople)
