@@ -2,7 +2,7 @@
 
 ## aesth's epic 420 website
 
-[discord bot invite codes](https://lelcool.github.io/index.html)
+[social medias warning ;e pic](https://lelcool.github.io/index.html)
 
 [click me ](https://lelcool.github.io/click)
 
