@@ -2,11 +2,11 @@
 
 ## aesth's epic 420 website
 
-[social medias warning ;e pic](https://lelcool.github.io/index.html)
+[social medias warning ;e pic](https://aesth1.github.io/index.html)
 
-[click me ](https://lelcool.github.io/click)
+[click me ](https://aesth1.github.io/click)
 
-[uwu](https://lelcool.github.io/uwu)
+[uwu](https://aesth1.github.io/uwu)
 
 [top ten gay people](/toptengaypeople)
 
