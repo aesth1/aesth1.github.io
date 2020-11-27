@@ -6,7 +6,7 @@
 
 [click me ](https://aesth1.github.io/click)
 
-[uwu](https://aesth1.github.io/uwu)
+[uwu](https://aesth1.github.io/uwu.html)
 
 [top ten gay people](/toptengaypeople)
 
