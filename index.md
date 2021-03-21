@@ -6,7 +6,6 @@
   <a href="aesth1.github.io/old.html">website</a>
 </div>
 yeah this is my website for now
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
