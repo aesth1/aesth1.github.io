@@ -12,29 +12,7 @@ yeah this is my website for now
 <style>
 body {
   padding: 25px;
-  background-color: white;
+  background-color: black;
   color: black;
   font-size: 25px;
 }
-
-.dark-mode {
-  background-color: black;
-  color: white;
-}
-</style>
-</head>
-<body>
-
-<h2>dark theme button</h2>
-<p>this literally only works once it returns to white theme if you refresh</p>
-
-<button onclick="myFunction()">dark theme i think</button>
-
-<script>
-function myFunction() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-}
-</script>
-
-</body>
