@@ -13,6 +13,6 @@ yeah this is my website for now
 body {
   padding: 25px;
   background-color: black;
-  color: black;
+  color: white;
   font-size: 25px;
 }
