@@ -12,7 +12,7 @@ yeah this is my website for now
 <style>
 body {
   padding: 25px;
-  background-color: gray;
+  background-color: 4CAF50;
   color: white;
   font-size: 25px;
 }
