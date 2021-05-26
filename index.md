@@ -1,9 +1,8 @@
 <link rel="stylesheet" href="navbar.css">
 <div class="topnav">
   <a class="active" href="#home">home</a>
-  <a href="https://www.youtube.com/channel/UCc7AwHFXGumS8TCS1w9JVeQ">youtube channel</a>
-  <a href="https://discord.com/api/oauth2/authorize?client_id=786115565282525204&permissions=8&scope=bot">discord bot</a>
-  <a href="aesth1.github.io/old.html">website</a>
+  <a href="https://www.roblox.com/users/358953391/profile">roblox account</a>
+  <a href="https://steamcommunity.com/profiles/76561198859657122/">steam profile</a>
 </div>
 yeah this is my website for now
 <html>
