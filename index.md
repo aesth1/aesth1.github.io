@@ -4,15 +4,16 @@ My name is aesth
 
 I like to code and play random games
 
-Stuff I own
+Heres some games I play
 
-aesth1.github.io - This website
-Helix - A roblox FE Hub
-Slender destroyer - Another FE Hub with more stuff to piss off slenders
-AesthHub - A hub I made when I got into roblox scripting
+<a href="https://web.roblox.com/games/155615604/Prison-Life-Cars-fixed?refPageId=a8d21df9-894d-4e31-a6d4-7f7d9af13502">Prison Life in roblox</a>
 
-Heres some loadstrings to the actual scripts!
-```markdown
-Aesth hub: loadstring(game:HttpGet('https://raw.githubusercontent.com/aesth1/robloxscriptstuff/main/AesthHub.lua'))()
-Helix: loadstring(game:HttpGet('https://raw.githubusercontent.com/aesth1/robloxscriptstuff/main/Helix.lua'))()
-Slender Destroyer: loadstring(game:HttpGet('https://raw.githubusercontent.com/aesth1/robloxscriptstuff/main/Slender%20Destroyer.lua'))()
+<a href="https://osu.ppy.sh/users/16897072">osu!</a>
+
+And here are some scripts I made for roblox
+
+<a href="https://github.com/aesth1/robloxscriptstuff/blob/main/AesthHub.lua">AesthHub</a>
+
+<a href="https://github.com/aesth1/robloxscriptstuff/blob/main/Helix.lua">Helix</a>
+
+<a href="https://github.com/aesth1/robloxscriptstuff/blob/main/PrisonGUI.lua">PrisonGUI</a>
