@@ -10,6 +10,8 @@ Heres some games I play
 
 <a href="https://osu.ppy.sh/users/16897072">osu!</a>
 
+<a href="https://web.roblox.com/users/358953391/profile">Roblox profile</a>
+
 And here are some scripts I made for roblox
 
 <a href="https://github.com/aesth1/robloxscriptstuff/blob/main/AesthHub.lua">AesthHub</a>
