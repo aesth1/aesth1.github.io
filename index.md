@@ -22,4 +22,4 @@ And here are some scripts I made for roblox
 
 Here are some other stuff
 
-<a href="https://aesth1.github.io/DarkWii">DarkWii - A wii dark theme skin</a>
+<a href="https://aesth1.github.io/DarkWii.html">DarkWii - A wii dark theme skin</a>
